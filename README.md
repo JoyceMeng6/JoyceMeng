@@ -1,6 +1,6 @@
 # Joyce Meng
 
-Hi! I'm a 2nd year Geospatial Data Science student at the University of Waterloo.
+Hi! I'm a 2nd year Geospatial Data Science student at the University of Waterloo seeking a co-op position in GIS/geospatial data science and related fields.
 
 # My Projects
 ## Ontario Military Bases Proximity Analysis
